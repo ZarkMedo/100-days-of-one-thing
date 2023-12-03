@@ -10,3 +10,12 @@
 
 **Link to work:** [basic data type part 1](https://github.com/ZarkMedo/golang-beginner/commit/78c779b8508a85a42a2619d6133449cb8e1bdedc)
 
+
+### Day 1: December 03, 2023
+
+**Today's Progress**: data type part 2, composition type is finished.
+
+**Thoughts:** distinguish value type, reference type, interface type, and how to use the pointer.
+
+**Link to work:** [Composition Type](https://github.com/ZarkMedo/golang-beginner/commit/5018646fc8c4f8977e6e611c743610a0cee4b7ba
+)
